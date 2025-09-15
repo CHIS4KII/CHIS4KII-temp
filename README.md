@@ -1,5 +1,5 @@
-# Oualid.github.io
-# Hi, Oualid👋
+# CHIS4KII.github.io
+# Hi, I'm Oualid👋
 
 I'm a **Data Science & Machine Learning enthusiast** with a passion for solving real-world problems using data.  
 I work on projects involving **NLP, web scraping, data analysis, and interactive web apps**.  
